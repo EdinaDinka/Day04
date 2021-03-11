@@ -2,11 +2,11 @@ function main() {
 
     var myDecimal = 8.2;
     var myDecimalE = 2.54e-3;
- 
-     return {
-        myDecimal, 
+
+    return {
+        myDecimal,
         myDecimalE
-     };
- }
- console.log(main());
- module.exports = main;
+    };
+}
+console.log(main());
+module.exports = main;
