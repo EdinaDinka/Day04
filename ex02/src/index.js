@@ -1,6 +1,6 @@
-function main(){
+function main() {
 
-   var myRes = 75;
+    var myRes = 75;
     myRes++;
 
     return myRes;
