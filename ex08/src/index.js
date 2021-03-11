@@ -1,4 +1,4 @@
-function main (){
+function main() {
 
     var myX = 12;
     myX += 3;
@@ -6,7 +6,7 @@ function main (){
     myY += 17;
     var myZ = 24;
     myZ -= 20;
-    
+
     return {
         myX,
         myY,
